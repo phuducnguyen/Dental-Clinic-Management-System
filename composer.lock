@@ -59,7 +59,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.4.0"
+        "php": "^8.0.30"
     },
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
